@@ -2,7 +2,7 @@
 
 # Description
 
-The purpose of this blog is for helping anyone who is looking for a sport event in the city. The app allows the user to login, search a sport, and then render information of that event. We wanted to provide a reliable way for the users to reach the best decision that make them happy when it comes to finding a sport event. After that, users will have the opportunity to input any comment about any sport. The users can create an account, login, and logout. This Blog Sport is the solution to finding any sport event, with this application users will be allow to find the desire event that make them happy.  
+The purpose of this blog is for give the users a way of post about any sport with other users. The app allows the user to login, search a sport, and then render information of that event then the user will be able to start bloggin. After that, users will have the opportunity to input any comment about any sport. The users can create an account, login, and logout.  
 
  
 # Instructions
